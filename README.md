@@ -96,3 +96,5 @@ exemple avec la surcharge "cg77" :
   "extension":"-fat.jar"
 }
 ``` -->
+
+Ce dépôt est un miroir officiel du dépôt Edifice : https://github.com/edificeio/ode-bootstrap-neo
